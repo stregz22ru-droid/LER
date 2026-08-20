@@ -1,0 +1,40 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux / Unix
+*~
+.directory
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+nbproject/
+*.komodoproject
+
+# Environment variables
+.env
+.env.local
+
+# Python / Node (на будущее, если появятся скрипты)
+__pycache__/
+*.py[cod]
+*$py.class
+node_modules/
